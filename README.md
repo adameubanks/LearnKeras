@@ -1,5 +1,5 @@
 # Learn Keras
-The official repository for my course Learn Keras: Build 4 Machine Learning Applications.
+The official repository for the course Learn Keras: Build 4 Machine Learning Applications.
 
 You can take the course here for free on my youtube channel.
 
